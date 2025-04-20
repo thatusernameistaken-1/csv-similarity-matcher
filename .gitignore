@@ -1,0 +1,17 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE settings
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
